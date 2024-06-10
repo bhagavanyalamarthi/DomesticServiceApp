@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632375148975",
+    "project_id": "domestice-services",
+    "storage_bucket": "domestice-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632375148975:android:e915e91de339c7af05af5a",
+        "android_client_info": {
+          "package_name": "com.example.domesticserviceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_j__wWNeeBMLrxE2UmcS5rHA2bk9yzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
